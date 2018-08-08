@@ -1,0 +1,13 @@
+# EasyNoHunger v1.1 by FilipsLifeCZ
+#
+# Config 
+# There is only prefix settings, new settings will be 
+# added in next updates!
+#
+# Prefix settings
+prefix: '&aNoHunger &8»'
+#
+# Join Info about Plugin
+# enabled = Enable function
+# disable = Disable function
+joinadmin: true
